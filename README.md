@@ -1,6 +1,6 @@
 # Joe's Reading Notes  
 ### About Me  
-Hey! My name is Joe but my friends call me Jow. The nickname came about in early high school when someone misspelled my name in a Christmas card. I am a rapper and producer who's trying to get an actual job now so I'm getting into coding!  
+Hey! My name is Joe but my friends call me Jow. The nickname came about in early high school when someone misspelled my name in a Christmas card. I am a casual rapper and producer who's trying to get an actual job now so I'm getting into coding!  
 ![Partners in Crime](partnersincrime.jpg)  
 Besides rapping, I also listen to a lot of music. My top 3 genres are:
 1. Metal (Especially black metal)
