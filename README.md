@@ -1,6 +1,6 @@
 # Joe's Reading Notes
 ### About Me
-Hey! My name's Joe and I'm new to coding. I'd like to work in tech one day and am on a 10-week bootcamp to learn the basics! This page is where I will keep all my notes and I can also use it to practice coding as I go.
+Hey! My name's Joe and I'm new to coding. I'd like to work in tech one day and am on a 10-week bootcamp to learn the basics! This page is where I will keep all my notes and I can also use it to practice coding as I go.  
 ***
 ## Contents  
 **Class 102**
