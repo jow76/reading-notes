@@ -1,20 +1,31 @@
-# Joe's Reading Notes  
-### About Me  
-Hey! My name is Joe but my friends call me Jow. The nickname came about in early high school when someone misspelled my name in a Christmas card. I am a casual rapper and producer who's trying to get an actual job now so I'm getting into coding!  
-![A picture of myself](jow.jpg)  
-Besides rapping, I also listen to a lot of music. My top 3 genres are:
-1. Metal (Especially black metal)
-2. Rap (Especially cloud rap)
-3. Rock (Especially grunge and garage rock)  
-
-I also play a lot of video games - too many to list - but for the past year I've spent a lot of time playing The Elder Scrolls Online.  
+# Joe's Reading Notes
+### About Me
+Hey! My name's Joe and I'm new to coding. I'd like to work in tech one day and am on a 10-week bootcamp to learn the basics! This page is where I will keep all my notes and I can also use it to practice coding as I go.
 ***
-### Growth Mindset  
-Having a growth mindset is very important when devloping skills and learning new things. Those with growth mindsets see challenges as opportunities and react positively to failures. I can keep myself in a growth mindset by:
-1. Seeing failure not as the end but as one step closer to success
-2. Staying positive and remembering I'm here to learn something new, so I'm likely to get confused sometimes
-3. Looking back on how far I've already come from before the bootcamp  
+## Contents  
+**Class 102**
+- [Class 1](102/class-01.md)
+- [Class 2](102/class-02.md)
+- [Class 3](102/class-03.md)
+- [Class 4](102/class-04.md)
+- [Class 5](102/class-05.md)
+- [Class 6](102/class-06.md)
+- [Class 7](102/class-07.md)
+- [Class 8](102/class-08.md)
 
-***
-### My GitHub  
-As I said before, I am new to coding but you can check out my GitHub [HERE](https://github.com/jow76) to follow my progress. Thanks for taking the time to read this and **have a good day!** 😁
+**Class 201**
+- [Class 1](201/class-01.md)
+- [Class 2](201/class-02.md)
+- [Class 3](201/class-03.md)
+- [Class 4](201/class-04.md)
+- [Class 5](201/class-05.md)
+- [Class 6](201/class-07.md)
+- [Class 7](201/class-07.md)
+- [Class 8](201/class-08.md)
+- [Class 9](201/class-09.md)
+- [Class 10](201/class-10.md)
+- [Class 11](201/class-11.md)
+- [Class 12](201/class-12.md)
+- [Class 13](201/class-13.md)
+- [Class 14](201/class-14.md)
+- [Class 15](201/class-15.md)
