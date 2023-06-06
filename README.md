@@ -10,7 +10,6 @@ Besides rapping, I also listen to a lot of music. My top 3 genres are:
 My music isn't really business friendly, but I'll link the new website of my favourite band that's reforming later this year after splitting in 1998:  
 [Jesus Loves Junkies Official Page](https://www.jesuslovesjunkies.com/)  
 Come to think of it they're not very safe for work either but I just wanted to test out the link feature. ~~Maybe if I become good enough at this I can make them a half-decent website.~~  
-
 ***
 ### Growth Mindset  
 Having a growth mindset is very important when devloping skills and learning new things. Those with growth mindsets see challenges as opportunities and react positively to failures. I can keep myself in a growth mindset by:
