@@ -7,6 +7,8 @@ Besides rapping, I also listen to a lot of music. My top 3 genres are:
 2. Rap (Especially cloud rap)
 3. Rock (Especially grunge and garage rock)  
 
+I also play a lot of video games - too many to list - but for the past year I've spent a lot of time (and money :pensive: ) playing The Elder Scrolls Online.  
+
 ***
 ### Growth Mindset  
 Having a growth mindset is very important when devloping skills and learning new things. Those with growth mindsets see challenges as opportunities and react positively to failures. I can keep myself in a growth mindset by:
